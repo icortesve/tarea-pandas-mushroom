@@ -18,3 +18,17 @@
 - Se traduce y reemplazan los valores en español en las columnas objetivo
 4. Se realiza un análisis base del DF
 - Se cuantifica cuántos y qué porcentaje de los hongos son comestibles, y cuántos son venenosos.
+
+Desarrollo:
+
+Hipótesis 1 (H1): "El olor es el mecanismo biológico de advertencia más fuerte"
+1.1: Contar hongos comestibles y venenosos por cada olor
+- Encontrar tipos diferentes de olor
+- Contar hongos por cada tipo de olor
+1.2: Ver si existen aromas exclusivos de hongos venenosos o comestibles
+- Agrupar hongos por olor y clase (comestible / venenoso)
+- Agrupar hongos en 'Grupos Sensoriales'
+- Obtener % de hongos que pertenecen a cada 'Grupo Sensorial'
+1.3: Obtener métrica matemática de riesgo
+- Se  obtiene el % de riesgo para cada tipo de olor
+* Se obtiene síntesis parcial para a H1
