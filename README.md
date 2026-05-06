@@ -9,7 +9,7 @@
 - Verificar si hay "Falsos Nulos" ("NaN", "null" o "None")
 - Contar valores '?' (Falsos nulos del dataset original)
 - Encontrar valores '?' (Falsos nulos del dataset original)
-- Eliminar columna ['stalk-root'] (Es la columna donde están los falsos nulos
+- Eliminar columna ['stalk-root'] (Es la columna donde están los falsos nulos)
 - Se vuelve  revisar si es que se encuentran duplicados
 2. Se crea proyecto:" GUÍA DE SEGURIDAD PARA LA RECOLECCIÓN DE HONGOS (MUSHROOM DATASET)"
 - El objetivo es: Identificar patrones físicos y firmas biológicas consistentes que permitan diferenciar con certeza un hongo comestible de uno venenoso, reduciendo el riesgo de intoxicación.
